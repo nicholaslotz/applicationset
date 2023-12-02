@@ -4,6 +4,6 @@
   "cluster": {
     "owner": "cluster-admin@company.com",
     "name": "engineering-prod",
-    "address": "https://34.95.45.12"
+    "address": "https://0e1294db-b6cb-400c-9428-c81486dec63c.k8s.ondigitalocean.com"
   }
 }
