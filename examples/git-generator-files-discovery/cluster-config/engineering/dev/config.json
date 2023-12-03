@@ -1,9 +1,9 @@
 {
-  "aws_account": "123456",
-  "asset_id": "11223344",
-  "cluster": {
-    "owner": "cluster-admin@company.com",
-    "name": "engineering-dev",
-    "address": "https://fce02524-256b-4800-a76e-ac96a34f2ad3.k8s.ondigitalocean.com"
-  }
+  "cluster" : {
+    "owner" : "cluster-admin@company.com",
+    "address" : "https://fce02524-256b-4800-a76e-ac96a34f2ad3.k8s.ondigitalocean.com",
+    "name" : "engineering-dev"
+  },
+  "aws_account" : "123456",
+  "asset_id" : "d8238a3648f0af33655474a21fbde562016974dd"
 }
