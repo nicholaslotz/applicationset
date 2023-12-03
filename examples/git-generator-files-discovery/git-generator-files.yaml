@@ -13,7 +13,7 @@ spec:
     metadata:  
       name: '{{cluster.name}}-podinfo'  
     spec:  
-      project: 9b6ad978  
+      project: 17fb7e57  
       source:  
         repoURL: https://github.com/dewandemo/applicationset.git  
         targetRevision: HEAD  
