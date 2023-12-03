@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1  
 kind: ApplicationSet  
 metadata:  
-  name: guestbook  
+  name: podinfo  
 spec:  
   generators:  
     - git:  
@@ -11,13 +11,13 @@ spec:
         - path: "examples/git-generator-files-discovery/cluster-config/**/config.json"  
   template:  
     metadata:  
-      name: '{{cluster.name}}-guestbook'  
+      name: '{{cluster.name}}-podinfo'  
     spec:  
       project: 9b6ad978  
       source:  
         repoURL: https://github.com/dewandemo/applicationset.git  
         targetRevision: HEAD  
-        path: "examples/git-generator-files-discovery/apps/guestbook"  
+        path: "examples/git-generator-files-discovery/apps/podinfo"  
       destination:  
         server: '{{cluster.address}}'  
         namespace: default  
