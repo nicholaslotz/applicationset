@@ -1,8 +1,8 @@
 {
   "cluster" : {
     "owner" : "cluster-admin@company.com",
-    "address" : "https://10.162.0.49:42353",
-    "name" : "engineering-dev"
+    "address" : "https://10.128.0.86:35195",
+    "name" : "dev-cluster"
   },
   "aws_account" : "123456",
   "commit_sha" : "50fb5ccaaf381fc5d9b493b6b241a133f094fb02"
