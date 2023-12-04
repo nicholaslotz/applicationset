@@ -4,6 +4,6 @@
     "address" : "https://10.128.0.86:35195",
     "name" : "dev-cluster"
   },
-  "commit_sha" : "abcdefg123",
+  "commit_sha" : "b463c38f815c2977da1337ce0cd1ffbed5a127cf",
   "aws_account" : "123456"
 }
