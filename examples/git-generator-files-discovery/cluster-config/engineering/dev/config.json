@@ -5,5 +5,5 @@
     "name" : "engineering-dev"
   },
   "aws_account" : "123456",
-  "asset_id" : "50fb5ccaaf381fc5d9b493b6b241a133f094fb02"
+  "commit_sha" : "50fb5ccaaf381fc5d9b493b6b241a133f094fb02"
 }
