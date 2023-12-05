@@ -4,6 +4,6 @@
     "address" : "https://10.128.0.86:44515",
     "name" : "prod-cluster"
   },
-  "commit_sha" : "e17a98e87cb4f1771d1712b43a5e33f24a2f8d6d",
+  "commit_sha" : "efce7c1e02d8c2a010eb2037ca3f89aa044bb647",
   "aws_account" : "123456"
 }
