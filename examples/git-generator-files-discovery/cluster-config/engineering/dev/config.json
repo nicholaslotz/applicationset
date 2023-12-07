@@ -3,8 +3,8 @@
     "owner" : "cluster-admin@company.com",
     "address" : "https://kubernetes.default.svc",
     "name" : "agentcluster",
-    "namespace": "devenv"
+    "namespace" : "devenv"
   },
-  "commit_sha" : "485c1fa34a666d013aac2907e282aac03bdc176d",
+  "commit_sha" : "abcd123",
   "aws_account" : "123456"
 }
