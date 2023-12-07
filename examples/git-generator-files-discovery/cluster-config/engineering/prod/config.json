@@ -5,6 +5,6 @@
     "name" : "agentcluster",
     "namespace" : "prod"
   },
-  "commit_sha" : "defg456",
+  "commit_sha" : "prodmessagefromnick",
   "aws_account" : "123456"
 }
