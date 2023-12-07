@@ -5,6 +5,6 @@
     "name" : "agentcluster",
     "namespace" : "dev"
   },
-  "commit_sha" : "abcd123",
+  "commit_sha" : "devmessagefromnick",
   "aws_account" : "123456"
 }
