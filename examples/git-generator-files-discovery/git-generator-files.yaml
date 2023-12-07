@@ -11,7 +11,7 @@ spec:
         - path: "examples/git-generator-files-discovery/cluster-config/**/config.json"  
   template:  
     metadata:  
-      name: '{{cluster.name}}-podinfo'  
+      name: '{{cluster.namespace}}-podinfo'  
     spec:  
       project: 574b932a  
       source:  
@@ -20,6 +20,6 @@ spec:
         path: "examples/git-generator-files-discovery/apps/podinfo"  
       destination:  
         server: '{{cluster.address}}'  
-        namespace: default  
+        namespace: '{{cluster.namespace}}'   
       syncPolicy:  
         automated: {}
