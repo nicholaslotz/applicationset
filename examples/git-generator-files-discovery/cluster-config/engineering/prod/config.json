@@ -1,8 +1,9 @@
 {
   "cluster" : {
     "owner" : "cluster-admin@company.com",
-    "address" : "https://10.128.0.86:44515",
-    "name" : "prod-cluster"
+    "address" : "https://kubernetes.default.svc",
+    "name" : "agentcluster"
+    "namespace": "prodenv"
   },
   "commit_sha" : "485c1fa34a666d013aac2907e282aac03bdc176d",
   "aws_account" : "123456"
