@@ -13,7 +13,7 @@ spec:
     metadata:  
       name: '{{cluster.namespace}}-podinfo'  
     spec:  
-      project: 17fb7e57  
+      project: 574b932a  
       source:  
         repoURL: https://github.com/nicholaslotz/applicationset.git  
         targetRevision: HEAD  
