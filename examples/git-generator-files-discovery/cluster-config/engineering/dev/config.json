@@ -2,7 +2,7 @@
   "cluster" : {
     "owner" : "cluster-admin@company.com",
     "address" : "https://kubernetes.default.svc",
-    "name" : "agentcluster",
+    "name" : "podinfocluster",
     "namespace" : "dev"
   },
   "commit_sha" : "devmessagefromnick",
