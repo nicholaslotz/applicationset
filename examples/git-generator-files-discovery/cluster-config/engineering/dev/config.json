@@ -5,6 +5,7 @@
     "name" : "podinfocluster",
     "namespace" : "dev"
   },
+  "argo_project_id": "abcd123",
   "commit_sha" : "devmessagefromnick",
   "aws_account" : "123456"
 }
