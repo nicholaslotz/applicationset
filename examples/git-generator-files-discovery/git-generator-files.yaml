@@ -13,7 +13,7 @@ spec:
     metadata:  
       name: '{{cluster.namespace}}-podinfo'  
     spec:  
-      project: 574b932a  
+      project: '{{argo_project_id}}'  
       source:  
         repoURL: https://github.com/nicholaslotz/applicationset.git  
         targetRevision: HEAD  
