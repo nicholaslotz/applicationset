@@ -5,7 +5,7 @@
     "name" : "podinfocluster",
     "namespace" : "prod"
   },
-  "argo_project_id": "574b932a",
-  "commit_sha" : "prodmessagefromnick",
-  "aws_account" : "123456"
+  "commit_sha" : "newprodmessage",
+  "aws_account" : "123456",
+  "argo_project_id" : "574b932a"
 }
